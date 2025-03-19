@@ -84,6 +84,5 @@ npm run dev
 4. Submit a pull request
 
 ## License
-
-[Add your license here]
+Made by Satish with love ❤️
 
